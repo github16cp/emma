@@ -1,0 +1,13 @@
+.idea/
+*.pyc
+TODO.md
+RESEARCH.md
+arduino/
+experiments/
+old/
+*.sh
+*.conf
+*_sup*
+models
+paper_data
+datasets
